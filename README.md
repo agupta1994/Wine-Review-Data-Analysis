@@ -1,5 +1,7 @@
 # Wine-Review-Data-Analysis
 
+Dataset: https://www.kaggle.com/zynicide/wine-reviews
+
 Questions:
 
 Q1. My wife likes Sauvignon Blanc from South Africa. My mother-inlaw likes Chardonnay from Chile. Both agree that €15 is the right amount to spend on a bottle of wine.
